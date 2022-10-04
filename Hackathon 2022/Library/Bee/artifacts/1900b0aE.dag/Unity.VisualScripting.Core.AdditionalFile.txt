@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C:\Users\AtomROG\Documents\GitHub\daboi\Hackathon 2022
+=======
+C:\Users\VTG\Documents\GitHub\daboi\Hackathon 2022
+>>>>>>> 8c23e11c3ec6b588cd9c594fb973251f4ad7a635
